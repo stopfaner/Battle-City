@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>tank_art.jpg</file>
+        <file>gearBig.png</file>
+        <file>gearLittle.png</file>
+        <file>grass.jpg</file>
+        <file>loading1.png</file>
+        <file>loading2.png</file>
+        <file>loading3.png</file>
+        <file>loading4.png</file>
+        <file>menubackground.png</file>
+        <file>stone.jpg</file>
+        <file>tank_art_2.jpg</file>
+        <file>tank_art_3.jpg</file>
+        <file>title.png</file>
+        <file>menu/about_active.png</file>
+        <file>menu/about_non_active.png</file>
+        <file>menu/exit_active.png</file>
+        <file>menu/exit_non_active.png</file>
+        <file>menu/options_active.png</file>
+        <file>menu/options_non_active.png</file>
+        <file>menu/ratings_active.png</file>
+        <file>menu/ratings_non_active.png</file>
+        <file>menu/start_active.png</file>
+        <file>menu/start_non_active.png</file>
+        <file>field/water.jpg</file>
+        <file>looser.png</file>
+        <file>winner.png</file>
+        <file>victory.jpg</file>
+        <file>save.png</file>
+        <file>save_c.png</file>
+    </qresource>
+</RCC>
